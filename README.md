@@ -1,7 +1,7 @@
 # Java-JSON
 
 
-##创建Json.java
+
 import com.google.gson.*;
 
 import java.io.FileNotFoundException;
@@ -87,7 +87,6 @@ public class Json {
     }
 }
 
-##创建test.json
 {
   "message": "success",
   "data": {
